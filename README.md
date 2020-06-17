@@ -3,7 +3,7 @@
 # **[React_Portfolio](https://amitabh-k.github.io/react-portfolio/)** 
 
 
- **[My Portfolio →](https://amitabh-k.github.io/react-portfolio/)** (https://twitter.com/amitabhkumar2/)
+ **[My Portfolio →](https://amitabh-k.github.io/react-portfolio/)** (https://www.amitabhkumar.com/)
 
  **[My Resume →](https://gitconnected.com/amitabh-k/resume)** (https://gitconnected.com/amitabh-k/resume)
 
