@@ -5,8 +5,6 @@
 
  **[My Portfolio →](https://amitabh-k.github.io/react-portfolio/)** (https://www.amitabhkumar.com/)
 
- **[My Resume →](https://gitconnected.com/amitabh-k/resume)** (https://gitconnected.com/amitabh-k/resume)
-
 
 ![Usage demo](./public/images/react-folio.JPG)
 
