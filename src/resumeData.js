@@ -25,7 +25,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Software developer who loves to transform ideas into reality using code. I am passionate about using mongoDB, NodeJS, Express and React to create awesome user experiences..",
-    "address":"2560, Eglinton ave W, Mississauga, ON Canada ",
+    "address":"2458, Grindstone Crt, Mississauga, ON Canada ",
     "website":" https://github.com/Amitabh-K",
     "education":[
       {
